@@ -1,0 +1,42 @@
+
+/*common - rewrite layer css*/
+.layui-layer-molv .layui-layer-btn a{ background: #009f95 !important; border-color: #009f95 !important; color: #FFF !important; font-size: 12px !important; }
+.layui-layer-btn a.wait{ display: none; }
+
+.pagebox{ background: #FFF; margin: 30px; }
+.pagebox .pagetitle{ line-height: 40px; font-size: 16px; padding-left: 10px; }
+.pagebox .pagetitle .addbtn{ float: right; margin-right: 1px; margin-top: 1px; }
+.pagebox .mainbox{ margin-top: 30px; }
+.pagebox .displaynone{ display: none; }
+.pagebox .addbox{ min-width: 800px; padding: 30px; margin: 0 auto; }
+.pagebox .editbox{ min-width: 800px; padding: 30px; margin: 0 auto; }
+.pagebox .delbtn,.pagebox .editbtn, .pagebox .sendbtn, .pagebox .showbtn, .pagebox .invitebtn, .pagebox .loginbtn, .pagebox .editbtn, .pagebox .delbtn, .pagebox .disbtn{ float: left; }
+
+.pointer{ cursor: pointer; }
+.noborder{ border: none !important; }
+
+.readonly{ background: #FBFBFB !important; }
+
+/*.layui-table td, .layui-table th{ text-align: left; padding: 10px 8px !important; }*/
+.my-layer-green .layui-layer-title{background:#009688; color:#fff; border: none;}
+.my-layer-green .layui-layer-btn{border-top:1px solid #E9E7E7}
+.my-layer-green .layui-layer-btn a{background:#333;}
+.my-layer-green .layui-layer-btn .layui-layer-btn0{ border: #dedede solid 1px; }
+.my-layer-green .layui-layer-btn .layui-layer-btn1{background:#999;}
+
+.my-layer-yellow .layui-layer-title{background:#FFB800; color:#fff; border: none;}
+.my-layer-yellow .layui-layer-btn{border-top:1px solid #E9E7E7}
+.my-layer-yellow .layui-layer-btn a{background:#333;}
+.my-layer-yellow .layui-layer-btn .layui-layer-btn0{ border: #dedede solid 1px; }
+.my-layer-yellow .layui-layer-btn .layui-layer-btn1{background:#999;}
+
+.my-layer-red .layui-layer-title{background:#F00; color:#fff; border: none;}
+.my-layer-red .layui-layer-btn{border-top:1px solid #E9E7E7}
+.my-layer-red .layui-layer-btn a{background:#333;}
+.my-layer-red .layui-layer-btn .layui-layer-btn0{ border: #dedede solid 1px; }
+.my-layer-red .layui-layer-btn .layui-layer-btn1{background:#999;}
+
+.paging{ text-align: center; margin: 50px 0px; }
+.paging .layui-unselect{ width: 80px !important; height: 31px !important; }
+
+.layui-layer-photos{ background-color: rgba(0,0,0,0) !important; }

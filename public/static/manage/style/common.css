@@ -1,0 +1,14 @@
+@charset "utf-8";
+/**
+ * 公共样式
+ * create by HuangYu
+ */
+
+/*basic*/
+*{ margin:0px; padding:0px; border:none; font-family:Microsoft Yahei,Arial; font-size:1em; text-decoration:none; list-style:none; outline:none; -webkit-text-size-adjust:none; border-radius:0; background:none; word-wrap: break-word;}
+html,body{ width:100%; font-size:1em; }
+img,object,video{ max-width:100%; height:auto;}
+article, aside, details,figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}
+
+a{ color:#000;}
+.clear{ clear:both;}

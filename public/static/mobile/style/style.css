@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+/*basic*/
+*{ margin:0px; padding:0px; border:none; font-family: robotoregular,PingFang SC,Hiragino Sans GB,Heiti SC,Microsoft YaHei,WenQuanYi Micro Hei,Helvetica,Arial,monospace,serif; font-size:14px; text-decoration:none; list-style:none; outline:none; -webkit-text-size-adjust:none; border-radius:0; background:none; word-wrap: break-word; transition: .3s; -moz-transition: .3s; -webkit-transition: .3s; -o-transition: .3s;}
+html,body{ width:100%; font-size:14px; }
+img,object,video{ max-width:100%; height:auto;}
+article, aside, details,figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}
+
+html,body{ background-color: #1f2126; }
+a{ color:#aeb9d8;}
+.clear{ clear:both; }

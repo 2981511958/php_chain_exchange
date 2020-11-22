@@ -1,0 +1,135 @@
+﻿@charset "utf-8";
+*{
+	margin: 0;
+	outline: 0 none;
+	padding: 0;
+	font-size: 12px;
+	line-height: 1.5em;
+	font-family: Arial, Verdana, "宋体b8b\4f53";
+	/*color: #333;*/
+}
+h1,h2,h3,h4,h5,sapn,a{line-height:inherit;}
+h1,h2,h3,h4,h5{font-family:"微软雅黑","宋体",Tahoma;}
+ol,ul{list-style:none outside none;}
+a img,*:link img,*:visited img{border:0 none;}
+a{color:#293649;text-decoration:none;}
+a:hover{color:#0083D2;text-decoration:underline;}
+
+.page {
+	width: 960px;
+	background-color: #FFF;
+	margin-top: 5%;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+.left {
+	width: 450px;
+	float: left;
+}
+.l_txt {
+	background-color: #06C;
+	padding-top: 15px;
+	padding-right: 20px;
+	padding-bottom: 25px;
+	padding-left: 20px;
+}
+.l_txt h1 {
+	color: #FFF;
+	font-family: "Microsoft Yahei",Verdana,Simsun,"Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif";
+	font-size: 31px;
+	font-weight: normal;
+	line-height: 31px;
+}
+.l_txt p {
+	font-family: "Microsoft Yahei",Verdana,Simsun,"Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif";
+	font-size: 14px;
+	line-height: 16px;
+	padding-top: 10px;
+	color: #FFF;
+}
+.right {
+	width: 420px;
+	float: right;
+	padding-left: 90px;
+	padding-top: 65px;
+}
+.right h1 {
+	color: #333;
+	font-family: "Microsoft YaHei UI", "微软雅黑", "宋体";
+	font-size: 27px;
+	font-weight: normal;
+	line-height: 27px;
+	border-left-width: 27px;
+	border-left-style: solid;
+	border-left-color: #09F;
+	padding-left: 10px;
+}
+.form_box {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.td_txt {
+	padding-bottom: 2px;
+	font-size: 14px;
+	color: #666;
+}
+
+.txt_input {padding-bottom: 10px;
+}
+
+.mm{padding-bottom: 2px;
+	font-size: 14px;
+	color: #666;
+}
+
+.txt_input .form_01 {
+	width: 292px;
+	height: 20px;
+	border: 1px solid #cdcdcd;
+	padding: 4px;
+}
+
+
+
+.yzm{padding-bottom: 8px;
+
+}
+
+.yzm .yzm-1{width: 100px;
+	height: 20px;
+	border: 1px solid #cdcdcd;
+	padding: 4px;
+	}
+
+
+
+
+.form_box select {
+	padding: 3px;
+	height: 30px;
+	width: 302px;
+	font-size: 14px;
+	border: 1px solid #cdcdcd;
+	font-weight: bold;
+}
+.form_box .form_02 {
+	background-color: #06C;
+	border: 0px solid #FFF;
+	color: #FFF;
+	font-family: "Microsoft YaHei UI", "微软雅黑", "宋体";
+	font-size: 14px;
+	padding-right: 25px;
+	padding-left: 25px;
+	height: 30px;
+}
+.help_box p {
+	font-size: 14px;
+	color: #338ED1;
+}
+body {
+	background-image: url(./body-bg.png);
+}
+.clear {
+	clear: both;
+}
